@@ -1,6 +1,8 @@
+![logo](https://github.com/rakib-islam98/rakib-islam98/blob/main/Untitled%20design(2).png)
 <h1 align="center">Hi 👋, I'm Raib Islam</h1>
 <h3 align="center">A tech enthusiast passionate about turning ideas into interactive design.</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib-islam98&label=Profile%20views&color=0e75b6&style=flat" alt="rakib-islam98" /> </p>
 
 - 🌱 I’m currently learning **backend development**
