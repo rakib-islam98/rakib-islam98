@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Raib Islam</h1>
 <h3 align="center">A tech enthusiast passionate about turning ideas into interactive design.</h3>
 
